@@ -13,3 +13,4 @@ lime
 fastapi
 uvicorn
 mlflow
+seaborn
